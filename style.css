@@ -1,0 +1,30 @@
+body{
+        background-color : #f9d7e6;
+        margin-top : 40px;
+     }
+h2{
+        text-align : center;
+  }
+img{
+        width : 200px;
+        height : 200px;
+        border-radius : 20px;
+        border : 2px solid white;
+        padding : 10px;
+        margin-left : 250px;
+        margin-top : 40px;
+}
+ul{
+        font-size : 20px;
+        margin-left : 150px;
+}
+li{
+        margin-bottom : 10px;
+}
+h3{
+        margin-left : 90px;
+}
+p{
+        margin-left : 110px;
+        font-size : 20px;
+}
